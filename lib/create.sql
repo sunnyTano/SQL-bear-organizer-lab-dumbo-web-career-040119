@@ -7,4 +7,4 @@ INSERT INTO bears (name) VALUES ('Sergeant Brown');
 INSERT INTO bears (name) VALUES ('Melissa');
 INSERT INTO bears (name) VALUES ('Grinch');
 INSERT INTO bears (name) VALUES ('Wendy');
-INSERT INTO bears (name) VALUES ('Rowday');
+INSERT INTO bears (name) VALUES ('unnamed (the bear that killed Tim didn\t have a name; refer back to how to create a record that doesn\t have one value)');
